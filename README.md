@@ -24,9 +24,9 @@ At **YenkoDev**, we are dedicated to delivering comprehensive and cutting-edge s
 
 # Why Choose Us?
 
- • **Versatility**: Our broad range of services means we can tackle any project, big or small, with the right tools and expertise.
- • **Innovation**: We stay at the forefront of technology trends, ensuring our solutions are always cutting-edge.
- • **Customization**: We tailor our services to fit the unique requirements of each client, delivering personalized and effective results.
- • **Reliability**: Our commitment to quality and reliability ensures that your projects are completed on time and to the highest standards.
+- **Versatility**: Our broad range of services means we can tackle any project, big or small, with the right tools and expertise.
+- **Innovation**: We stay at the forefront of technology trends, ensuring our solutions are always cutting-edge.
+- **Customization**: We tailor our services to fit the unique requirements of each client, delivering personalized and effective results.
+- **Reliability**: Our commitment to quality and reliability ensures that your projects are completed on time and to the highest standards.
 
 At **YenkoDev**, we excel in turning complex challenges into seamless solutions, helping your business thrive in the digital age. Let us be your partner in innovation and success.
