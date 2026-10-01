@@ -1,8 +1,10 @@
 # YenkoDev
 
-**We take it over. We automate it. We build it.**
+**Bring the problem. We solve it. We ship it.**
 
-A founder-led software studio, fully remote, working with clients worldwide. Two of the things we do are hard to find anywhere else.
+A founder-led software studio that works the way a forward deployed engineer does: inside your business, not at arm's length from it. Fully remote, but in your tools, with your data, and alongside the people who do the work. You bring the problem, not a finished plan. We learn how the work really happens, find what is actually wrong, and build the software that fixes it.
+
+A senior engineer is on every engagement, and other developers are brought in per project. Most problems we're handed are one of two kinds — and they're the two things people struggle to find anyone good at.
 
 **You inherited it.** Software someone else built — stalled, abandoned, handed over, or still running in production with nobody left who understands it. We take it over, write down how it actually works, and make it safe to change.
 
@@ -25,16 +27,16 @@ We use AI to move faster. Every line is human-reviewed, your data stays yours, a
 
 ## What we can back up
 
-- **Building software since 2017** — the public freelance record starts September 2017.
-- **Registered business since 2024** — BIR-registered in the Philippines.
-- **Top Rated Plus on Upwork** — contract history, hours and client feedback on a [public profile](https://www.upwork.com/freelancers/luispambid).
-- **Every project documented** — each one has its own write-up at [yenkodev.com/projects](https://www.yenkodev.com/projects). Count them.
+- **Building software since 2017** — our founder's public freelance record starts September 2017.
+- **Registered business since 2024** — BIR-registered in the Philippines. Registration details on request.
+- **Top Rated Plus on Upwork** — Upwork's own badge, with the contract history and client feedback behind it, on our founder's [personal profile](https://www.upwork.com/freelancers/luispambid). The YenkoDev agency profile's badge reads Top Rated.
+- **90+ projects delivered** — most are under client confidentiality. The builds we're free to show are published in full at [yenkodev.com/projects](https://www.yenkodev.com/projects).
 
 Founder credentials: CCNP Enterprise and two Cisco Enterprise specialist certifications (issued 2023), Licensed Electronics Engineer and Licensed Electronics Technician (Professional Regulation Commission, Philippines, issued 2022), Network Programming and Automation (Network to Code course, 2023), and Anthropic's Claude Code and AI Fluency courses (2026).
 
 ## Why this org has almost no public code
 
-Client work sits under NDA, so the repositories here are private. The public record is the portfolio — [yenkodev.com/projects](https://www.yenkodev.com/projects) — and the writing: [yenkodev.com/blog](https://www.yenkodev.com/blog).
+Client work sits under NDA, so the repositories here are private. The public record is the builds we're free to show — [yenkodev.com/projects](https://www.yenkodev.com/projects) — and the writing: [yenkodev.com/blog](https://www.yenkodev.com/blog).
 
 ## Talk to an engineer
 
